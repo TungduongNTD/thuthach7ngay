@@ -101,6 +101,9 @@ lib/
 
 ---
 
+## 📱 Cài đặt
+Tải file apk bằng link sau và cài đặt 
+
 ## 📧 Liên hệ
 
 Nguyễn Tùng Dương – [tungduong2003@gmail.com]  
