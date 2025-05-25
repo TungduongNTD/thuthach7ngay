@@ -38,7 +38,7 @@ Thử Thách 7 Ngày là một ứng dụng di động giúp người dùng xây
 ### 1. Clone dự án
 
 ```bash
-git clone https://github.com/ten-ban/thuthach7ngay.git
+git clone https://github.com/TungduongNTD/thuthach7ngay.git
 cd thuthach7ngay
 ```
 
