@@ -1,0 +1,1 @@
+C:\Users\docco\StudioProjects\thuthach7ngay\android\app\src\main\kotlin\com\example\thuthach7ngay\MainActivity.kt

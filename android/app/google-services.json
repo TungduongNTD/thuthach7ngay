@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "107341151182",
+    "project_id": "thuthach7ngay-7bay",
+    "storage_bucket": "thuthach7ngay-7bay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107341151182:android:53441595d9ae1554c6499f",
+        "android_client_info": {
+          "package_name": "com.example.thuthach7ngay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107341151182-5mupniq6el1ubt66q8ite3bu5mtghksf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thuthach7ngay",
+            "certificate_hash": "00991c0097dc01e54c9b28307aaa5e1dff2069db"
+          }
+        },
+        {
+          "client_id": "107341151182-h73v660433tq12oof4g6qaksekj585td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXtuK_k0_b6ouJQ9dQJOJkcou6PMVofwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107341151182-h73v660433tq12oof4g6qaksekj585td.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107341151182-afrcggpdj1qac3cdglm9agpdmk4ctqcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thuthach7ngay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
