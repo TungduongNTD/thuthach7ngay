@@ -77,12 +77,18 @@ flutter run
 ```plaintext
 lib/
 ├── main.dart
-├── models/
-├── screens/
-├── services/         # Firebase, AI services
-├── providers/
-├── widgets/
-└── utils/
+├── constants/         # Các hằng số dùng chung
+├── firebase_options.dart
+├── models/            # Các model dữ liệu
+├── providers/         # Quản lý trạng thái với Provider
+├── screens/           # Các màn hình giao diện chính
+│   ├── ai_chat/
+│   ├── home/
+│   ├── login/
+│   └── splash/
+├── services/          # Các hàm xử lý logic như AI, Firebase, Auth,...
+├── utils/             # Tiện ích và hàm dùng chung
+└── widgets/           # Các widget tái sử dụng
 ```
 
 ---
